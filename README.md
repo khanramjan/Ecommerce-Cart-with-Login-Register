@@ -10,6 +10,14 @@ This project is an e-commerce cart application with user authentication features
 - Responsive Design
 - Built with modern tools like React and Tailwind CSS
 
+  ## Technology Stack
+
+This project is built using the following technologies:
+
+- **React**: A JavaScript library for building user interfaces.
+- **Redux Toolkit**: A standardized way to write Redux logic, simplifying the process of managing state in React applications.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+
 ## How to Use the Project
 
 1. Fork the repository.
